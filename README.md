@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on dapp development and cryptocurrecny ico.
 
-- 📫 How to reach me: 
+### 📫 How to reach me: 
 - [Telegram](https://t.me/agelessZeal) :smirk:
 
 ### Programming Languages
@@ -41,18 +41,6 @@
 - [JetBrains](https://www.jetbrains.com/)
 - [Visual Studio/VSCode](https://visualstudio.microsoft.com/)
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!--
