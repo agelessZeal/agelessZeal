@@ -24,8 +24,9 @@
 ### Fetured Frameworks
 
 - [Ruby on Rails](https://rubyonrails.org/)
-- [Laravel](https://laravel.com/)
 - [React Native](https://reactnative.dev/)
+- [Electron](https://www.electronjs.org/)
+- [Laravel](https://laravel.com/)
 - [Wordpress](https://wordpress.com/)
 
 
