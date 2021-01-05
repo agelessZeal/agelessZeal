@@ -3,10 +3,10 @@
 🔭 Specialize in Solidity/Ethereum Smart Contracts, JavaScript connecting user interface to blockchain. Using tools Web3 libraries, Truffle and Remix. Creating ICO smart contracts, and supporting client during campaign.
 As a full stack engineer, I can take ownership of your entire project, from implementing pixel perfect front-end user interfaces to the continuous deployments to the cloud. 
 I believe smooth communication between client and developer is the key to success when it comes to any projects.
-
+<!--
 ### 📫 How to reach me: 
 - [Telegram](https://t.me/agelessZeal) :smirk:
-
+-->
 ### Programming Languages
 
 - [C/C++](https://www.cplusplus.com/)
