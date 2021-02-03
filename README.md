@@ -1,4 +1,4 @@
-### I am an expert of the NFT dApp. 
+## DEX and NFT expert. 
 🔭 
 Specialize in NFT application and solidity/Smart Contracts on Ethereum Blockchain and Binance smart chain.
 Using tools Web3 libraries, Truffle and Remix. 
