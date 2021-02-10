@@ -1,14 +1,15 @@
-## DEX and NFT expert. 
+# DEX and NFT expert. 
 🔭 
-Specialize in NFT application and solidity/Smart Contracts on Ethereum Blockchain and Binance smart chain.
-Using tools Web3 libraries, Truffle and Remix. 
-Creating ICO smart contracts, and supporting client during campaign.
-As a full stack engineer, I can take ownership of your entire project, from implementing pixel perfect front-end user interfaces to the continuous deployments to the cloud. 
+
+### I am a big crypto specialist. I have rich experience in defi/dapp fields. I have completed several projects like swapping tokens in ethereum blockchain, sushi-based DEX on binance smart chain. I can support a robust analytical approach to problem-solving, which yields practical and effective solutions.
+
+### As a full stack engineer, I can take ownership of your entire project, from implementing pixel perfect front-end user interfaces to the continuous deployments to the cloud. 
 I believe smooth communication between client and developer is the key to success when it comes to any projects.
-<!--
-### 📫 How to reach me: 
+
+
+### 📫 How to contact me: 
 - [Telegram](https://t.me/agelessZeal) :smirk:
--->
+
 
 <!--
 **agelessZeal/agelessZeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
