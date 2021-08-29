@@ -1,5 +1,5 @@
 # DEX and NFT expert. 
-⚡  X
+⚡ 
 
 ### I am a big crypto specialist. I have rich experience in defi/dapp fields. I have completed several projects like swapping tokens in ethereum blockchain, sushi-based DEX on binance smart chain. I can support a robust analytical approach to problem-solving, which yields practical and effective solutions.
 
