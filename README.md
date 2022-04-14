@@ -1,6 +1,6 @@
 ⚡ 
 
-### I am a big crypto specialist. I have rich experience in defi/dapp fields. I have completed several projects like swapping tokens in ethereum blockchain, sushi-based DEX on binance smart chain. I can support a robust analytical approach to problem-solving, which yields practical and effective solutions.
+### I am a big crypto specialist. I have rich experience in defi/gamefi/nft fields. I have completed several projects like DEX on evm chain and nft marketplace. I can support a robust analytical approach to problem-solving, which yields practical and effective solutions.
 
 ### As a full-stack engineer, I can take ownership of your entire project, from implementing pixel perfect front-end user interfaces to the continuous deployments to the cloud. 
 
