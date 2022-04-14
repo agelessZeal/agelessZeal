@@ -11,7 +11,7 @@
  [Vue.js](https://vuejs.org/), [Python](https://www.python.org/), [Java](https://www.java.com/)
 
 
-### Feel free to contact to him anytime. 
+### Feel free to contact anytime. 
 
 
 - [Telegram](https://t.me/agelessZeal) :smirk:
