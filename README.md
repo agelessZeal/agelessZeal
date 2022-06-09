@@ -1,4 +1,4 @@
-⚡ 
+⚡ GameFi Specialist
 
 ### I am a big crypto specialist. I have rich experience in defi/gamefi/nft fields. I have completed several projects like DEX, NFT Game on evm chain and nft marketplace. I can support a robust analytical approach to problem-solving, which yields practical and effective solutions.
 
