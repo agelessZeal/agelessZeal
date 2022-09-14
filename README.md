@@ -8,8 +8,7 @@
 ### I believe smooth communication between a client and a developer is the key to success when it comes to any projects.
 
 ### I have extensive experiences with the following languages/skills.
-[C/C++](https://www.cplusplus.com/), [Go/Golang](https://golang.org/), [Solidity](http://solidityproject.com/), [Rust](https://www.rust-lang.org/), [Javascript](https://www.javascript.com/), [PHP](https://www.php.net/), [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Ruby](https://www.ruby-lang.org/),
- [Vue.js](https://vuejs.org/), [Python](https://www.python.org/), [Java](https://www.java.com/)
+[C/C++](https://www.cplusplus.com/), [Go/Golang](https://golang.org/), [Solidity](http://solidityproject.com/), [Rust](https://www.rust-lang.org/), [Javascript](https://www.javascript.com/), [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Java](https://www.java.com/)
 
 
 ### Feel free to contact anytime. 
